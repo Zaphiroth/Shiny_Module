@@ -1,0 +1,16 @@
+
+shinyUI(
+  
+  pageWithSidebar(
+    
+    sidebarPanel(
+      
+    ),
+    
+    mainPanel(
+      
+    )
+    
+  )
+  
+)
